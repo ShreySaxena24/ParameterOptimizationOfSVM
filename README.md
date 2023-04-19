@@ -43,4 +43,5 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 # Convergence Graph 
 
+![image](https://user-images.githubusercontent.com/73159662/233172351-999dcb03-af26-4069-bf5c-3a8ed16893ee.png)
 
